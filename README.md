@@ -33,5 +33,7 @@
 <h3>Buy me coffee/support my projects:</h3>
 <p align="left">
 Paypal: <a href="https://paypal.me/jonslva" target="_blank">https://paypal.me/jonslva</a>
+</p>
+<p align="left">
 Venmo: <a href="https://venmo.com/u/JonathanSilva167" target="_blank">https://venmo.com/u/JonathanSilva167</a>
 </p>
