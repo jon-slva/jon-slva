@@ -29,3 +29,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jon-slva&show_icons=true&locale=en&layout=compact" alt="jon-slva" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jon-slva&" alt="jon-slva" /></p>
+
+<h3>Buy me coffee/support my projects:</h3>
+Paypal: <a href="https://paypal.me/jonslva" target="_blank">https://paypal.me/jonslva</a>
+Venmo: <a href="https://venmo.com/u/JonathanSilva167" target="_blank">https://venmo.com/u/JonathanSilva167</a>
