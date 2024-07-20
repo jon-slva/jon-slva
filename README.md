@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/jon-slva](github.com/jon-slva)
 
-- 💬 Ask me about **React, Node, Express, Javascript**
+- 💬 Ask me about **React, NextJS, Node, Express, MySQL, Javascript**
 
 - 📫 How to reach me **jonathan.silva167@gmail.com**
 
