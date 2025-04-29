@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **All my projects pinned on github. I am jumping around, learning everything I can.**
 
-- 🌱 I’m currently learning **Typescript, ThreeJS, & React Native**
+- 🌱 I’m currently using **Typescript, NextJS, ThreeJS, & React Native**
 
 - 👯 I’m looking to collaborate on [A number of projects! Add me on LinkedIn!](www.linkedin.com/in/jonathansilva761)
 
@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://jonathansilva.io](https://jonathansilva.io)
 
-- ⚡ Fun fact **I play guitar**
+- ⚡ Fun fact **I play several instruments**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
